@@ -49,4 +49,3 @@ class ViewController: UIViewController {
         falseButton.backgroundColor = UIColor.clear
     }
 }
-
